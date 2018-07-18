@@ -1,0 +1,1128 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                              ./src/prueba2Cpp.o (CGU_GetPCLKFrequency)
+C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+                              ./src/prueba2Cpp.o (GPIO_SetDir)
+C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+                              ./src/prueba2Cpp.o (scu_pinmux)
+C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+                              ./src/cr_startup_lpc43xx.o (SystemInit)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+                              C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o) (__aeabi_dadd)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+                              C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o) (__aeabi_dmul)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+                              C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o) (__aeabi_dcmplt)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+                              C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o) (__aeabi_d2uiz)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+                              ./src/cr_startup_lpc43xx.o (__libc_init_array)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o)
+                              ./src/cr_cpp_config.o (malloc)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o) (_malloc_r)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mlock.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-sbrkr.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-freer.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o) (_free_r)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o) (_impure_ptr)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-sbrkr.o) (errno)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-sbrkr.o) (_sbrk)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o) (__check_heap_overflow)
+c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+                              c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+errno               0x4               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_cpp_config.o
+ .text          0x00000000        0x0 ./src/cr_cpp_config.o
+ .data          0x00000000        0x0 ./src/cr_cpp_config.o
+ .bss           0x00000000        0x0 ./src/cr_cpp_config.o
+ .text._Znwj    0x00000000       0x18 ./src/cr_cpp_config.o
+ .text._Znaj    0x00000000       0x18 ./src/cr_cpp_config.o
+ .text._ZdlPv   0x00000000       0x16 ./src/cr_cpp_config.o
+ .text._ZdaPv   0x00000000       0x16 ./src/cr_cpp_config.o
+ .text.__aeabi_atexit
+                0x00000000       0x1a ./src/cr_cpp_config.o
+ .text._ZN9__gnu_cxx27__verbose_terminate_handlerEv
+                0x00000000        0x6 ./src/cr_cpp_config.o
+ .debug_info    0x00000000     0x10b9 ./src/cr_cpp_config.o
+ .debug_abbrev  0x00000000      0x332 ./src/cr_cpp_config.o
+ .debug_aranges
+                0x00000000       0x48 ./src/cr_cpp_config.o
+ .debug_ranges  0x00000000       0x38 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000      0x132 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000      0x9b2 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000      0x143 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x10 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000      0x3ca ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x10 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x22 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x52 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x8d ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x35 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x9c ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x16 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000      0x10e ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x94 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x57 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x58 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x1f ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x43 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x20 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000      0x187 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000      0x353 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x16 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0x29 ./src/cr_cpp_config.o
+ .debug_macro   0x00000000       0xea ./src/cr_cpp_config.o
+ .debug_line    0x00000000      0x3a2 ./src/cr_cpp_config.o
+ .debug_str     0x00000000     0x763c ./src/cr_cpp_config.o
+ .comment       0x00000000       0x80 ./src/cr_cpp_config.o
+ .debug_frame   0x00000000       0xe0 ./src/cr_cpp_config.o
+ .ARM.attributes
+                0x00000000       0x37 ./src/cr_cpp_config.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc43xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc43xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc43xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc43xx.o
+ .debug_macro   0x00000000      0x9b2 ./src/cr_startup_lpc43xx.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 ./src/prueba2Cpp.o
+ .text          0x00000000        0x0 ./src/prueba2Cpp.o
+ .data          0x00000000        0x0 ./src/prueba2Cpp.o
+ .bss           0x00000000        0x0 ./src/prueba2Cpp.o
+ .debug_macro   0x00000000      0x9b2 ./src/prueba2Cpp.o
+ .debug_macro   0x00000000       0x22 ./src/prueba2Cpp.o
+ .debug_macro   0x00000000       0x34 ./src/prueba2Cpp.o
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text          0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .data          0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .bss           0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.pdec_new
+                0x00000000       0x64 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.ndec_new
+                0x00000000       0x74 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.mdec_new
+                0x00000000       0x70 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.anadeci_new
+                0x00000000       0x62 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.anadecp_new
+                0x00000000       0x24 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .rodata.pfdInMax
+                0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .rodata.fccoMax
+                0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .rodata.fccoMin
+                0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.compute_pll_regs
+                0x00000000      0x550 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.CGU_ConfigPWR
+                0x00000000      0x434 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.CGU_SetDIV
+                0x00000000       0x7c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.CGU_SetPLL0
+                0x00000000       0x70 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.CGU_SetPLL0_Audio
+                0x00000000       0x74 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.CGU_GetBaseStatus
+                0x00000000      0x11c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.CGU_FrequencyMonitor
+                0x00000000       0xec C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .text.CGU_RealFrequencyCompare
+                0x00000000       0x64 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00000000      0x118 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00000000      0x329 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .text          0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .data          0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .bss           0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .text.GPIO_ReadValue
+                0x00000000       0x28 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .text.FIO_SetDir
+                0x00000000       0x24 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .text.FIO_SetValue
+                0x00000000       0x1e C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .text.FIO_ClearValue
+                0x00000000       0x1e C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .text.FIO_ReadValue
+                0x00000000       0x1c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .text.FIO_SetMask
+                0x00000000       0x64 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000      0x8ce C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000      0x329 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x00000000       0x6d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .text          0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .data          0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .bss           0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000      0x8ce C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000      0x329 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000       0x6d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00000000      0x118 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .group         0x00000000        0x8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .text          0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .data          0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000      0x8ce C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000      0x329 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000       0x6d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_macro   0x00000000       0x46 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .text          0x00000000      0x370 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0xac c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000       0x50 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000      0x110 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000       0xc4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x40 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x00000000       0x24 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o)
+ .text.malloc   0x00000000       0x10 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o)
+ .debug_frame   0x00000000       0x30 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x560 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000       0x58 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000000       0x30 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0xa0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-freer.o)
+ .text._free_r  0x00000000      0x1cc c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-freer.o)
+ .debug_frame   0x00000000       0x74 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .debug_frame   0x00000000       0xb0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ COMMON         0x00000000       0x21 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x58 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+ COMMON         0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .text._sbrk    0x00000000       0x3c c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .bss.__end_of_heap
+                0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_info    0x00000000      0x966 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_abbrev  0x00000000      0x223 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_loc     0x00000000       0x3f c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_aranges
+                0x00000000       0x20 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_ranges  0x00000000       0x10 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_line    0x00000000      0x123 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_str     0x00000000      0x634 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .comment       0x00000000       0x80 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .debug_frame   0x00000000       0x2c c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x00000000       0x33 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_sbrk.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .text.__check_heap_overflow
+                0x00000000       0x18 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_info    0x00000000       0x6a c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_abbrev  0x00000000       0x62 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_loc     0x00000000       0x3a c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_aranges
+                0x00000000       0x20 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_ranges  0x00000000       0x10 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_line    0x00000000       0x4c c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_str     0x00000000      0x183 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .comment       0x00000000       0x80 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .debug_frame   0x00000000       0x20 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .ARM.attributes
+                0x00000000       0x33 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a(_cr_check_heap.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crti.o
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crti.o
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crti.o
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtn.o
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtn.o
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtn.o
+ .data          0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtbegin.o
+ .fini_array    0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtbegin.o
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtend.o
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtend.o
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtend.o
+ .eh_frame      0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtend.o
+ .jcr           0x00000000        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtend.o
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtend.o
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlashA512       0x1a000000         0x00080000         xr
+MFlashB512       0x1b000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamLoc40         0x10080000         0x0000a000         xrw
+RamAHB32         0x20000000         0x00008000         xrw
+RamAHB16         0x20008000         0x00004000         xrw
+RamAHB_ETB16     0x2000c000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_cpp_config.o
+LOAD ./src/cr_startup_lpc43xx.o
+LOAD ./src/crp.o
+LOAD ./src/prueba2Cpp.o
+LOAD C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a
+START GROUP
+LOAD c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a
+LOAD c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a
+LOAD c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libstdc++.a
+LOAD c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a
+LOAD c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libcr_newlib_nohost.a
+LOAD c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crti.o
+LOAD c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtn.o
+LOAD c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtbegin.o
+LOAD c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtend.o
+END GROUP
+                0x1a000000                __base_MFlashA512 = 0x1a000000
+                0x1a000000                __base_Flash = 0x1a000000
+                0x1a080000                __top_MFlashA512 = 0x1a080000
+                0x1a080000                __top_Flash = 0x1a080000
+                0x1b000000                __base_MFlashB512 = 0x1b000000
+                0x1b000000                __base_Flash2 = 0x1b000000
+                0x1b080000                __top_MFlashB512 = 0x1b080000
+                0x1b080000                __top_Flash2 = 0x1b080000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x10080000                __base_RamLoc40 = 0x10080000
+                0x10080000                __base_RAM2 = 0x10080000
+                0x1008a000                __top_RamLoc40 = 0x1008a000
+                0x1008a000                __top_RAM2 = 0x1008a000
+                0x20000000                __base_RamAHB32 = 0x20000000
+                0x20000000                __base_RAM3 = 0x20000000
+                0x20008000                __top_RamAHB32 = 0x20008000
+                0x20008000                __top_RAM3 = 0x20008000
+                0x20008000                __base_RamAHB16 = 0x20008000
+                0x20008000                __base_RAM4 = 0x20008000
+                0x2000c000                __top_RamAHB16 = 0x2000c000
+                0x2000c000                __top_RAM4 = 0x2000c000
+                0x2000c000                __base_RamAHB_ETB16 = 0x2000c000
+                0x2000c000                __base_RAM5 = 0x2000c000
+                0x20010000                __top_RamAHB_ETB16 = 0x20010000
+                0x20010000                __top_RAM5 = 0x20010000
+
+.text_Flash2    0x1b000000        0x0
+ FILL mask 0xff
+ *(.text_Flash2*)
+ *(.text_MFlashB512*)
+ *(.text.$Flash2*)
+ *(.text.$MFlashB512*)
+ *(.rodata.$Flash2*)
+ *(.rodata.$MFlashB512*)
+
+.text           0x1a000000     0x1478
+ FILL mask 0xff
+                0x1a000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x1a000000      0x114 ./src/cr_startup_lpc43xx.o
+                0x1a000000                g_pfnVectors
+                0x1a000114                . = ALIGN (0x4)
+                0x1a000114                __section_table_start = .
+                0x1a000114                __data_section_table = .
+                0x1a000114        0x4 LONG 0x1a001478 LOADADDR (.data)
+                0x1a000118        0x4 LONG 0x10000000 ADDR (.data)
+                0x1a00011c        0x4 LONG 0x4c SIZEOF (.data)
+                0x1a000120        0x4 LONG 0x1a001478 LOADADDR (.data_RAM2)
+                0x1a000124        0x4 LONG 0x10080000 ADDR (.data_RAM2)
+                0x1a000128        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x1a00012c        0x4 LONG 0x1a001478 LOADADDR (.data_RAM3)
+                0x1a000130        0x4 LONG 0x20000000 ADDR (.data_RAM3)
+                0x1a000134        0x4 LONG 0x0 SIZEOF (.data_RAM3)
+                0x1a000138        0x4 LONG 0x1a001478 LOADADDR (.data_RAM4)
+                0x1a00013c        0x4 LONG 0x20008000 ADDR (.data_RAM4)
+                0x1a000140        0x4 LONG 0x0 SIZEOF (.data_RAM4)
+                0x1a000144        0x4 LONG 0x1a001478 LOADADDR (.data_RAM5)
+                0x1a000148        0x4 LONG 0x2000c000 ADDR (.data_RAM5)
+                0x1a00014c        0x4 LONG 0x0 SIZEOF (.data_RAM5)
+                0x1a000150                __data_section_table_end = .
+                0x1a000150                __bss_section_table = .
+                0x1a000150        0x4 LONG 0x1000004c ADDR (.bss)
+                0x1a000154        0x4 LONG 0x3c SIZEOF (.bss)
+                0x1a000158        0x4 LONG 0x10080000 ADDR (.bss_RAM2)
+                0x1a00015c        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x1a000160        0x4 LONG 0x20000000 ADDR (.bss_RAM3)
+                0x1a000164        0x4 LONG 0x0 SIZEOF (.bss_RAM3)
+                0x1a000168        0x4 LONG 0x20008000 ADDR (.bss_RAM4)
+                0x1a00016c        0x4 LONG 0x0 SIZEOF (.bss_RAM4)
+                0x1a000170        0x4 LONG 0x2000c000 ADDR (.bss_RAM5)
+                0x1a000174        0x4 LONG 0x0 SIZEOF (.bss_RAM5)
+                0x1a000178                __bss_section_table_end = .
+                0x1a000178                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x1a000178       0xb8 ./src/cr_startup_lpc43xx.o
+                0x1a000178                data_init(unsigned int, unsigned int, unsigned int)
+                0x1a0001bc                bss_init(unsigned int, unsigned int)
+                0x1a0001f4                NMI_Handler
+                0x1a0001fa                HardFault_Handler
+                0x1a000200                MemManage_Handler
+                0x1a000206                BusFault_Handler
+                0x1a00020c                UsageFault_Handler
+                0x1a000212                SVC_Handler
+                0x1a000218                DebugMon_Handler
+                0x1a00021e                PendSV_Handler
+                0x1a00022a                SDIO_IRQHandler
+                0x1a00022a                I2C1_IRQHandler
+                0x1a00022a                UART1_IRQHandler
+                0x1a00022a                GPIO5_IRQHandler
+                0x1a00022a                CAN1_IRQHandler
+                0x1a00022a                USB1_IRQHandler
+                0x1a00022a                I2S0_IRQHandler
+                0x1a00022a                TIMER3_IRQHandler
+                0x1a00022a                UART0_IRQHandler
+                0x1a00022a                SGPIO_IRQHandler
+                0x1a00022a                ADC0_IRQHandler
+                0x1a00022a                I2C0_IRQHandler
+                0x1a00022a                FLASH_EEPROM_IRQHandler
+                0x1a00022a                IntDefaultHandler
+                0x1a00022a                GPIO1_IRQHandler
+                0x1a00022a                SSP0_IRQHandler
+                0x1a00022a                ADC1_IRQHandler
+                0x1a00022a                RTC_IRQHandler
+                0x1a00022a                TIMER0_IRQHandler
+                0x1a00022a                SPI_IRQHandler
+                0x1a00022a                LCD_IRQHandler
+                0x1a00022a                TIMER1_IRQHandler
+                0x1a00022a                UART2_IRQHandler
+                0x1a00022a                GPIO2_IRQHandler
+                0x1a00022a                I2S1_IRQHandler
+                0x1a00022a                SSP1_IRQHandler
+                0x1a00022a                ADCHS_IRQHandler
+                0x1a00022a                USB0_IRQHandler
+                0x1a00022a                GPIO3_IRQHandler
+                0x1a00022a                SCT_IRQHandler
+                0x1a00022a                RIT_IRQHandler
+                0x1a00022a                ATIMER_IRQHandler
+                0x1a00022a                WDT_IRQHandler
+                0x1a00022a                GPIO6_IRQHandler
+                0x1a00022a                GPIO7_IRQHandler
+                0x1a00022a                SPIFI_IRQHandler
+                0x1a00022a                QEI_IRQHandler
+                0x1a00022a                ETH_IRQHandler
+                0x1a00022a                CAN0_IRQHandler
+                0x1a00022a                GINT0_IRQHandler
+                0x1a00022a                DAC_IRQHandler
+                0x1a00022a                M0SUB_IRQHandler
+                0x1a00022a                GPIO0_IRQHandler
+                0x1a00022a                DMA_IRQHandler
+                0x1a00022a                EVRT_IRQHandler
+                0x1a00022a                TIMER2_IRQHandler
+                0x1a00022a                UART3_IRQHandler
+                0x1a00022a                MCPWM_IRQHandler
+                0x1a00022a                M0APP_IRQHandler
+                0x1a00022a                GINT1_IRQHandler
+                0x1a00022a                GPIO4_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x1a000230       0xcc ff
+                0x1a0002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x1a0002fc        0x4 ./src/crp.o
+                0x1a0002fc                CRP_WORD
+ .crp           0x1a000300        0x4 ./src/prueba2Cpp.o
+                0x1a000304                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.ResetISR
+                0x1a000304       0xc8 ./src/cr_startup_lpc43xx.o
+                0x1a000304                ResetISR
+ .text.NVIC_SetPriority
+                0x1a0003cc       0x5c ./src/prueba2Cpp.o
+ .text.SysTick_Config
+                0x1a000428       0x44 ./src/prueba2Cpp.o
+ .text.SysTick_Handler
+                0x1a00046c       0x1c ./src/prueba2Cpp.o
+                0x1a00046c                SysTick_Handler
+ .text._Z13systick_delaym
+                0x1a000488       0x38 ./src/prueba2Cpp.o
+                0x1a000488                systick_delay(unsigned long)
+ .text.main     0x1a0004c0      0x198 ./src/prueba2Cpp.o
+                0x1a0004c0                main
+ .text.CGU_Init
+                0x1a000658       0x4c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a000658                CGU_Init
+ .text.CGU_GetPCLKFrequency
+                0x1a0006a4      0x180 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a0006a4                CGU_GetPCLKFrequency
+ .text.CGU_UpdateClock
+                0x1a000824      0x16c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a000824                CGU_UpdateClock
+ .text.CGU_SetXTALOSC
+                0x1a000990       0x5c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a000990                CGU_SetXTALOSC
+ .text.CGU_EnableEntity
+                0x1a0009ec      0x190 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a0009ec                CGU_EnableEntity
+ .text.CGU_EntityConnect
+                0x1a000b7c       0xe4 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a000b7c                CGU_EntityConnect
+ .text.CGU_SetPLL1
+                0x1a000c60       0xe0 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a000c60                CGU_SetPLL1
+ .text.GPIO_SetDir
+                0x1a000d40       0x64 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+                0x1a000d40                GPIO_SetDir
+ .text.GPIO_SetValue
+                0x1a000da4       0x2c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+                0x1a000da4                GPIO_SetValue
+ .text.GPIO_ClearValue
+                0x1a000dd0       0x2c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+                0x1a000dd0                GPIO_ClearValue
+ .text.scu_pinmux
+                0x1a000dfc       0x50 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+                0x1a000dfc                scu_pinmux
+ .text.SystemInit
+                0x1a000e4c       0x58 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+                0x1a000e4c                SystemInit
+ .text.__libc_init_array
+                0x1a000ea4       0x50 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+                0x1a000ea4                __libc_init_array
+ .text          0x1a000ef4       0x6c c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtbegin.o
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata._ZL16ledposition_port
+                0x1a000f60        0x8 ./src/prueba2Cpp.o
+ .rodata._ZL16ledposition_mask
+                0x1a000f68        0x8 ./src/prueba2Cpp.o
+ .rodata.CGU_Entity_ControlReg_Offset
+                0x1a000f70       0x5a C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a000f70                CGU_Entity_ControlReg_Offset
+ *fill*         0x1a000fca        0x2 ff
+ .rodata.CGU_ConnectAlloc_Tbl
+                0x1a000fcc      0x2fd C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a000fcc                CGU_ConnectAlloc_Tbl
+ *fill*         0x1a0012c9        0x3 ff
+ .rodata.CGU_PERIPHERAL_Info
+                0x1a0012cc      0x190 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x1a0012cc                CGU_PERIPHERAL_Info
+                0x1a00145c                . = ALIGN (0x4)
+                0x1a00145c                . = ALIGN (0x4)
+ *(.init)
+ .init          0x1a00145c        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crti.o
+                0x1a00145c                _init
+ .init          0x1a001460        0x8 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtn.o
+                0x1a001468                . = ALIGN (0x4)
+                0x1a001468                __preinit_array_start = .
+ *(.preinit_array)
+                0x1a001468                __preinit_array_end = .
+                0x1a001468                . = ALIGN (0x4)
+                0x1a001468                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x1a001468        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtbegin.o
+                0x1a00146c                __init_array_end = .
+ *(.fini)
+ .fini          0x1a00146c        0x4 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crti.o
+                0x1a00146c                _fini
+ .fini          0x1a001470        0x8 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtn.o
+                0x1a001478                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x1a001478                . = ALIGN (0x4)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x1a001478                . = ALIGN (0x4)
+
+.glue_7         0x1a001478        0x0
+ .glue_7        0x1a001478        0x0 linker stubs
+
+.glue_7t        0x1a001478        0x0
+ .glue_7t       0x1a001478        0x0 linker stubs
+
+.vfp11_veneer   0x1a001478        0x0
+ .vfp11_veneer  0x1a001478        0x0 linker stubs
+
+.v4_bx          0x1a001478        0x0
+ .v4_bx         0x1a001478        0x0 linker stubs
+
+.iplt           0x1a001478        0x0
+ .iplt          0x1a001478        0x0 ./src/cr_cpp_config.o
+
+.rel.dyn        0x1a001478        0x0
+ .rel.iplt      0x1a001478        0x0 ./src/cr_cpp_config.o
+
+.eh_frame       0x1a001478        0x0
+ .eh_frame      0x1a001478        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x1a001478                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x1a001478                __exidx_end = .
+                0x1a001478                _etext = .
+
+.data_RAM2      0x10080000        0x0 load address 0x1a001478
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamLoc40)
+ *(.data.$RAM2*)
+ *(.data.$RamLoc40*)
+                0x10080000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.data_RAM3      0x20000000        0x0 load address 0x1a001478
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM3, .)
+ *(.ramfunc.$RAM3)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM3*)
+ *(.data.$RamAHB32*)
+                0x20000000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM3, .)
+
+.data_RAM4      0x20008000        0x0 load address 0x1a001478
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM4, .)
+ *(.ramfunc.$RAM4)
+ *(.ramfunc.$RamAHB16)
+ *(.data.$RAM4*)
+ *(.data.$RamAHB16*)
+                0x20008000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM4, .)
+
+.data_RAM5      0x2000c000        0x0 load address 0x1a001478
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM5, .)
+ *(.ramfunc.$RAM5)
+ *(.ramfunc.$RamAHB_ETB16)
+ *(.data.$RAM5*)
+ *(.data.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM5, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x4c load address 0x1a001478
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.sign     0x10000000        0x4 ./src/prueba2Cpp.o
+                0x10000000                sign
+ .data.CGU_ClockSourceFrequency
+                0x10000004       0x44 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x10000004                CGU_ClockSourceFrequency
+ .data.SystemCoreClock
+                0x10000048        0x4 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+                0x10000048                SystemCoreClock
+                0x1000004c                . = ALIGN (0x4)
+                0x1000004c                _edata = .
+
+.igot.plt       0x1000004c        0x0 load address 0x1a0014c4
+ .igot.plt      0x1000004c        0x0 ./src/cr_cpp_config.o
+
+.jcr            0x1000004c        0x0 load address 0x1a0014c4
+ .jcr           0x1000004c        0x0 c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtbegin.o
+
+.bss_RAM2       0x10080000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamLoc40*)
+                0x10080000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss_RAM3       0x20000000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM3, .)
+ *(.bss.$RAM3*)
+ *(.bss.$RamAHB32*)
+                0x20000000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM3, .)
+
+.bss_RAM4       0x20008000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM4, .)
+ *(.bss.$RAM4*)
+ *(.bss.$RamAHB16*)
+                0x20008000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM4, .)
+
+.bss_RAM5       0x2000c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM5, .)
+ *(.bss.$RAM5*)
+ *(.bss.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM5, .)
+
+.bss            0x1000004c       0x3c
+                0x1000004c                _bss = .
+ *(.bss*)
+ .bss.flashval  0x1000004c        0x4 ./src/prueba2Cpp.o
+                0x1000004c                flashval
+ .bss.msTicks   0x10000050        0x4 ./src/prueba2Cpp.o
+                0x10000050                msTicks
+ .bss.maxflashval
+                0x10000054        0x4 ./src/prueba2Cpp.o
+                0x10000054                maxflashval
+ .bss.minflashval
+                0x10000058        0x4 ./src/prueba2Cpp.o
+                0x10000058                minflashval
+ .bss.changeval
+                0x1000005c        0x4 ./src/prueba2Cpp.o
+                0x1000005c                changeval
+ .bss.constflash
+                0x10000060        0x4 ./src/prueba2Cpp.o
+                0x10000060                constflash
+ .bss.expectedPLL0Freq
+                0x10000064        0x4 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x10000064                expectedPLL0Freq
+ .bss.expectedPLL0AudioFreq
+                0x10000068        0x4 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                0x10000068                expectedPLL0AudioFreq
+ .bss           0x1000006c       0x1c c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtbegin.o
+ *(COMMON)
+                0x10000088                . = ALIGN (0x4)
+                0x10000088                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x10080000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamLoc40*)
+                0x10080000                . = ALIGN (0x4)
+
+.noinit_RAM3    0x20000000        0x0
+ *(.noinit.$RAM3*)
+ *(.noinit.$RamAHB32*)
+                0x20000000                . = ALIGN (0x4)
+
+.noinit_RAM4    0x20008000        0x0
+ *(.noinit.$RAM4*)
+ *(.noinit.$RamAHB16*)
+                0x20008000                . = ALIGN (0x4)
+
+.noinit_RAM5    0x2000c000        0x0
+ *(.noinit.$RAM5*)
+ *(.noinit.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN (0x4)
+
+.noinit         0x10000088        0x0
+                0x10000088                _noinit = .
+ *(.noinit*)
+                0x10000088                . = ALIGN (0x4)
+                0x10000088                _end_noinit = .
+                0x10000088                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0x53ff72f6                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x1a000000                _image_start = LOADADDR (.text)
+                0x1a0014c4                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x000014c4                _image_size = (_image_end - _image_start)
+OUTPUT(prueba2Cpp.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x3426
+ .debug_info    0x00000000      0x2a3 ./src/cr_startup_lpc43xx.o
+ .debug_info    0x000002a3       0x3f ./src/crp.o
+ .debug_info    0x000002e2      0xadd ./src/prueba2Cpp.o
+ .debug_info    0x00000dbf     0x1b3a C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_info    0x000028f9      0x47f C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_info    0x00002d78      0x152 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_info    0x00002eca      0x55c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+
+.debug_abbrev   0x00000000      0x8e8
+ .debug_abbrev  0x00000000      0x106 ./src/cr_startup_lpc43xx.o
+ .debug_abbrev  0x00000106       0x36 ./src/crp.o
+ .debug_abbrev  0x0000013c      0x1e0 ./src/prueba2Cpp.o
+ .debug_abbrev  0x0000031c      0x243 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_abbrev  0x0000055f      0x1ac C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_abbrev  0x0000070b       0xc8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_abbrev  0x000007d3      0x115 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+
+.debug_aranges  0x00000000      0x230
+ .debug_aranges
+                0x00000000       0x80 ./src/cr_startup_lpc43xx.o
+ .debug_aranges
+                0x00000080       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000098       0x40 ./src/prueba2Cpp.o
+ .debug_aranges
+                0x000000d8       0xb8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_aranges
+                0x00000190       0x60 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_aranges
+                0x000001f0       0x20 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_aranges
+                0x00000210       0x20 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+
+.debug_ranges   0x00000000      0x1b8
+ .debug_ranges  0x00000000       0x70 ./src/cr_startup_lpc43xx.o
+ .debug_ranges  0x00000070       0x30 ./src/prueba2Cpp.o
+ .debug_ranges  0x000000a0       0xa8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_ranges  0x00000148       0x50 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_ranges  0x00000198       0x10 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_ranges  0x000001a8       0x10 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+
+.debug_macro    0x00000000     0x4404
+ .debug_macro   0x00000000       0x1d ./src/cr_startup_lpc43xx.o
+ .debug_macro   0x0000001d       0x1a ./src/crp.o
+ .debug_macro   0x00000037      0x8da ./src/crp.o
+ .debug_macro   0x00000911       0x34 ./src/crp.o
+ .debug_macro   0x00000945      0x106 ./src/prueba2Cpp.o
+ .debug_macro   0x00000a4b       0x2d ./src/prueba2Cpp.o
+ .debug_macro   0x00000a78       0x3b ./src/prueba2Cpp.o
+ .debug_macro   0x00000ab3       0x1c ./src/prueba2Cpp.o
+ .debug_macro   0x00000acf       0x87 ./src/prueba2Cpp.o
+ .debug_macro   0x00000b56       0x51 ./src/prueba2Cpp.o
+ .debug_macro   0x00000ba7       0xef ./src/prueba2Cpp.o
+ .debug_macro   0x00000c96       0x6a ./src/prueba2Cpp.o
+ .debug_macro   0x00000d00      0x1df ./src/prueba2Cpp.o
+ .debug_macro   0x00000edf       0x2d ./src/prueba2Cpp.o
+ .debug_macro   0x00000f0c       0x42 ./src/prueba2Cpp.o
+ .debug_macro   0x00000f4e      0xd39 ./src/prueba2Cpp.o
+ .debug_macro   0x00001c87      0x329 ./src/prueba2Cpp.o
+ .debug_macro   0x00001fb0       0x82 ./src/prueba2Cpp.o
+ .debug_macro   0x00002032       0x6d ./src/prueba2Cpp.o
+ .debug_macro   0x0000209f      0x118 ./src/prueba2Cpp.o
+ .debug_macro   0x000021b7       0x4c ./src/prueba2Cpp.o
+ .debug_macro   0x00002203       0x5e ./src/prueba2Cpp.o
+ .debug_macro   0x00002261      0x11c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x0000237d      0x8ce C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00002c4b       0x10 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00002c5b      0x12d C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00002d88      0x5b2 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x0000333a       0x67 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x000033a1      0xd39 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x000040da       0x46 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_macro   0x00004120       0xa4 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x000041c4       0xfe C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_macro   0x000042c2       0x96 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_macro   0x00004358       0xac C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+
+.debug_line     0x00000000     0x1348
+ .debug_line    0x00000000       0xfb ./src/cr_startup_lpc43xx.o
+ .debug_line    0x000000fb       0x7a ./src/crp.o
+ .debug_line    0x00000175      0x3f0 ./src/prueba2Cpp.o
+ .debug_line    0x00000565      0x76a C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_line    0x00000ccf      0x29b C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_line    0x00000f6a      0x1e8 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_line    0x00001152      0x1f6 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+
+.debug_str      0x00000000     0xf068
+ .debug_str     0x00000000     0x2bec ./src/cr_startup_lpc43xx.o
+                               0x2c04 (size before relaxing)
+ .debug_str     0x00002bec      0x2c2 ./src/crp.o
+                               0x26fe (size before relaxing)
+ .debug_str     0x00002eae     0x9052 ./src/prueba2Cpp.o
+                               0xbed3 (size before relaxing)
+ .debug_str     0x0000bf00     0x2bba C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+                               0xc7e2 (size before relaxing)
+ .debug_str     0x0000eaba      0x23f C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+                               0xa932 (size before relaxing)
+ .debug_str     0x0000ecf9       0x33 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+                               0xaccf (size before relaxing)
+ .debug_str     0x0000ed2c      0x33c C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+                               0xaba1 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f ./src/cr_startup_lpc43xx.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 ./src/crp.o
+ .comment       0x0000007f       0x80 ./src/prueba2Cpp.o
+ .comment       0x0000007f       0x80 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .comment       0x0000007f       0x80 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .comment       0x0000007f       0x80 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .comment       0x0000007f       0x80 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+
+.ARM.attributes
+                0x00000000       0x37
+ .ARM.attributes
+                0x00000000       0x37 ./src/cr_startup_lpc43xx.o
+ .ARM.attributes
+                0x00000037       0x37 ./src/crp.o
+ .ARM.attributes
+                0x0000006e       0x37 ./src/prueba2Cpp.o
+ .ARM.attributes
+                0x000000a5       0x37 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .ARM.attributes
+                0x000000dc       0x37 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .ARM.attributes
+                0x00000113       0x37 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .ARM.attributes
+                0x0000014a       0x37 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .ARM.attributes
+                0x00000181       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001af       0x1e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crti.o
+ .ARM.attributes
+                0x000001cd       0x1e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtn.o
+ .ARM.attributes
+                0x000001eb       0x2e c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\crtbegin.o
+
+.debug_frame    0x00000000      0x754
+ .debug_frame   0x00000000      0x170 ./src/cr_startup_lpc43xx.o
+ .debug_frame   0x00000170       0xc4 ./src/prueba2Cpp.o
+ .debug_frame   0x00000234      0x320 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_cgu.o)
+ .debug_frame   0x00000554      0x168 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_gpio.o)
+ .debug_frame   0x000006bc       0x38 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(lpc43xx_scu.o)
+ .debug_frame   0x000006f4       0x34 C:\Users\Cassagnes Andres\Documents\MCUXpressoIDE_10.1.1_606\workspace\CMSIS_LPC43xx_DriverLib\Debug\libCMSIS_LPC43xx_DriverLib.a(system_LPC43xx.o)
+ .debug_frame   0x00000728       0x2c c:/nxp/mcuxpressoide_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
